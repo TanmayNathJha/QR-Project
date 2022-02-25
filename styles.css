@@ -1,0 +1,23 @@
+body{
+    background-color:hsl(220, 15%, 55%) ;
+}
+h2{
+    color: #2C3333;
+}
+p{
+    color: gray;
+    line-height: 1.5;
+    width: 250px;
+    padding-left: 60px;
+}
+div{
+    background: white;
+    width: 25%;
+    margin: 100px auto auto auto;
+    text-align: center;
+}
+.qrimg{
+    width: 350px;
+    margin: auto;
+    padding-top: 17px;
+}
